@@ -1,7 +1,7 @@
 salt-vu
 =======
 
-salt-vu (pronounced salt view) is a web based *S*alt *V*irtualization *U*ser interface.
+salt-vu (pronounced salt view) is a web based **S**alt **V**irtualization **U**ser interface.
 
 About
 ========
